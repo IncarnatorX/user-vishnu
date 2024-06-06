@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development..!!
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on JavaScript related projects to learn and improve my tech skills. 
-- 📫 How to reach me ...
+- 📫 How to reach me ... Drop an email at homedevice000@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love coding and avid cricket lover. 
 
