@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @user-vishnu
+- 👋 Hi, I’m @vishnu
 - 👀 I’m interested in Full Stack Development..!!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning NodeJS, MongoDB
 - 💞️ I’m looking to collaborate on JavaScript related projects to learn and improve my tech skills. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love coding and avid cricket lover. 
